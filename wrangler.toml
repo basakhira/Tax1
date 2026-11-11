@@ -5,4 +5,4 @@ compatibility_date = "2026-11-01"
 [[d1_databases]]
 binding = "DB"
 database_name = "income-tax-auth"
-database_id = "fd2aed16-2839-4a1b-b378-52c411b17003"
+database_id = "6f0f3282-a877-46fc-bd22-23a9d87c783b"
