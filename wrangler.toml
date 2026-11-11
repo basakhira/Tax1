@@ -1,0 +1,8 @@
+name = "tax1"
+main = "worker.js"
+compatibility_date = "2026-11-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "income-tax-auth"
+database_id = "fd2aed16-2839-4a1b-b378-52c411b17003"
